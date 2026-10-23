@@ -1,7 +1,7 @@
 # GPUCodingMath
 
 Using AI-assisted CUDA computing to explore mathematical patterns and numerical behavior.
-
+ 
 Hey, welcome! :) 
 well we all have seen a lot of math problems and interesting functions or insights, but to truly see and explore them with the eye for deeper understanding and learning, well I haven't, here with the power of GPU, you can see what each looks like and visualize it for better understanding and for maybe a future with brighter ideas :D
 
